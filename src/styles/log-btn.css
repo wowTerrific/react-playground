@@ -1,0 +1,13 @@
+.log-btn {
+	border: 2px solid black;
+	background: white;
+	font-weight: bold;
+	padding: 10px 20px;
+	border-radius: 5px;
+	transition: 0.2s;
+	width: 150px;
+}
+.log-btn:hover {
+	background: black;
+	color: white;
+}
